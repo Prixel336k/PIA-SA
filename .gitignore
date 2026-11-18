@@ -1,0 +1,18 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos compilados y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos local (se genera automaticamente al iniciar la app)
+data/*.db
+data/*.db-journal
+data/*.db-wal
+
+# Configuracion de editores
+.vscode/
+.idea/
