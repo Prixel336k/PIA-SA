@@ -1,6 +1,6 @@
 # Sistema Inteligente de Recomendación de Platillos — Sistemas Adaptativos
 
-Aplicación de escritorio desarrollada en **Python**, **CustomTkinter**, **Pillow** y **SQLite** para la unidad de aprendizaje **Sistemas Adaptativos (UANL · FIME)**. El sistema recomienda platillos de distintas cocinas internacionales a partir de los ingredientes disponibles en la despensa del usuario, su preferencia culinaria del día y sus restricciones alimentarias.
+Aplicación de escritorio desarrollada en **Python**, **CustomTkinter**, **Pillow** y **SQLite**. El sistema recomienda platillos de distintas cocinas internacionales a partir de los ingredientes disponibles en la despensa del usuario, su preferencia culinaria del día y sus restricciones alimentarias.
 
 ---
 
